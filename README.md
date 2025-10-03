@@ -5,7 +5,7 @@
 Особенности:
 - State management: **Redux Toolkit**
 - Styling: **TailwindCSS**
-- Pages: Products, Cart, Auth (login), Profile
+- Pages: Products, Cart, Auth (login), Profile, Home(Главная страница)
 - Products загружаются из https://dummyjson.com/products
 - Auth через https://dummyjson.com/auth/login
 - Cart и Auth сохраняются в localStorage (ключи: `cart_v1`, `auth_v1`)
@@ -23,4 +23,4 @@
 - Для логина можно использовать тестовые данные:
   - username: `kminchelle`
   - password: `0lelplR`
-- Проект использует Tailwind; если впервые — выполните `npx tailwindcss init -p` (скрипт prepare указан), но `postcss.config.cjs` и `tailwind.config.js` уже добавлены.
+- Проект использует Tailwind; если впервые — выполните `npx tailwindcss init -p`
