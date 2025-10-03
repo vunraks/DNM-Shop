@@ -1,4 +1,4 @@
-# Redux Shop (Vite + React + Redux Toolkit + TailwindCSS)
+# DNM Shop (Vite + React + Redux Toolkit + TailwindCSS)
 
 Мини‑интернет‑магазин реализованный для промежуточного экзамена по ТЗ.
 
